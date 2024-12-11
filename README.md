@@ -9,19 +9,19 @@
 mannu@archbtw:~$ neofetch
 
                    .~vVeZNgQBBBQQg9Ze1v~.                   
-              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 navi@desky
+              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 rex_von_eberhardt
            -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -----------------------
         .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: GNU/Linux
-      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 17 years
+      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 15 years
     `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: 1030 (pacman)
    ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: /bin/zsh
   ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: vim, vscode
- :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: git@github.com:Navdeep
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: git@github.com:Bd4xTahomid
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0    
 a@@@@@@@@@@2                                    v@@@@@@@@@@;   contact information
 #@@@@@@@@@@_                                     @@@@@@@@@@y   -------------------
-@@@@@@@@@@@.                                     @@@@@@@@@@%   Website:navdeep.xyz
-#@@@@@@@@@@r                                    :@@@@@@@@@@s   Github: ofcnavdeep
+@@@@@@@@@@@.                                     @@@@@@@@@@%   Website:Tahomid.xyz
+#@@@@@@@@@@r                                    :@@@@@@@@@@s   Github: Bd4xtahomid
 W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   
 ~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    device specifications 
  ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    ---------------------  
