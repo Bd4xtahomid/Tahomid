@@ -70,7 +70,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tahomid&theme=gruvbox&layout=compact&hide_border=true"
           alt="Mannu :: Top Langs by repo" />
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tahomid&theme=gruvbox&layout=compact&hide_border=true"
-          alt="desky :: Top Langs by commit" />
+          alt="Tahomid :: Top Langs by commit" />
           </a>
         </p>
 </details>
@@ -92,8 +92,8 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
   <samp>
   <br/>
   <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=oTahomid&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/bd4xTahomid/github-readme-activity-graph">
+  <img alt="azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Tahomid&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 <br/>
   </samp>
   </details>
