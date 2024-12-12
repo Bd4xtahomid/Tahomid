@@ -63,21 +63,21 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
             <p align="center">
         <a href="https://github.com/bd4xtahomid/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofcnavdeep&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="Mannu :: overall Top Langs " /></a>
+          alt="Tahomid :: overall Top Langs " /></a>
       </p>
         <p align="center">
           <a href="https://github.com/bd4xtahomid/">
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tahomid&theme=gruvbox&layout=compact&hide_border=true"
-          alt="Mannu :: Top Langs by repo" />
+          alt="Tahomid :: Top Langs by repo" />
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tahomid&theme=gruvbox&layout=compact&hide_border=true"
-          alt="desky :: Top Langs by commit" />
+          alt="Tahomid :: Top Langs by commit" />
           </a>
         </p>
 </details>
     <details open>
   <summary><h3>stasistic</h3></summary>
         <p align="center">
-          <a href="https://github.com/ofcnavdeep/">
+          <a href="https://github.com/Tabomid/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Tahomid&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tahomid&theme=gruvbox&hide_border=true" />
           </a>
@@ -93,7 +93,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
   <br/>
   <h2 align="center"> latest contribution </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=oTahomid&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+  <img alt="TG Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Tahomid&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 <br/>
   </samp>
   </details>
