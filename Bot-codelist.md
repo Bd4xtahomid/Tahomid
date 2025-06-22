@@ -1,4 +1,4 @@
-## projets
+## Discord Bot (Codes) 
 *NSFW BOT - v1* (Available in Realeses) 
 
 *Ai Bot - v1* (available in Realeses)
